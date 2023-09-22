@@ -6,7 +6,13 @@
 This project is an exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset. It aims to analyze and visualize various aspects of Netflix content and answer questions related to content trends over the years, popular content in India, movie durations, and more. The analysis is conducted using Python's Pandas and Matplotlib libraries.
 
 ## `Dataset`
-The dataset used for this project contains information about Netflix Movies and TV Shows. You can find the dataset [here](https://drive.google.com/file/d/1rofOEyPZZCRnka01rzfmRs_jFjhmjDA8/view?usp=sharing).
+
+This project uses Netflix's Movies and TV Shows dataset, which contains information about a wide range of content available on Netflix. The dataset includes details such as titles, types (movies or TV shows), release year, rating, and more.
+
+- **File Name**: netflix_dataset.csv
+- **Description**: The dataset provides a snapshot of Netflix's content library and is used for various analyses in this project.
+
+You can access the dataset file directly within this repository.
 
 ## `Key Questions Explored`
 1. **Content Trends Over the Years**: Analyzed the growth of content on Netflix over the years.
